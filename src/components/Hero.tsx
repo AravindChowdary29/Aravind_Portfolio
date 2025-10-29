@@ -159,7 +159,7 @@ export default function Hero() {
                 <div className="w-full h-full rounded-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
                   <div className="text-center space-y-2">
                     <div className="text-4xl font-bold text-primary animate-glow">
-                      Security
+                      Cyber Security
                     </div>
                     <div className="text-lg text-muted-foreground">
                       Expert
