@@ -24,10 +24,17 @@ interface AchievementProps {
 
 const achievementsData: AchievementProps[] = [
   {
+    title: "Cybersecurity Virtual Internship",
+    role: "Intern (Supported by Palo Alto)",
+    organization: "Palo Alto Networks",
+    date: "2024",
+    image: internshipImg,
+  },
+  {
     title: "Hackathon, Cybersecurity Club",
     role: "Won 3rd Prize",
     organization: "KL University",
-    date: "2022, 2023",
+    date: "2022 - 2023",
     image: hackathonImg,
   },
   {
@@ -36,13 +43,6 @@ const achievementsData: AchievementProps[] = [
     organization: "KL University",
     date: "2023",
     image: workshopImg,
-  },
-  {
-    title: "Cybersecurity Virtual Internship",
-    role: "Intern (Supported by Palo Alto)",
-    organization: "Palo Alto Networks",
-    date: "2024",
-    image: internshipImg,
   },
   {
     title: "Campus Ambassador",
@@ -75,7 +75,7 @@ const achievementsData: AchievementProps[] = [
   {
     title: "Campus Ambassador",
     role: "Ambassador",
-    organization: "Agnirva.com (Space Community)",
+    organization: "Agnirva.com (ISRO Space Community)",
     date: "2024",
     image: spaceAmbassadorImg,
   },
@@ -83,7 +83,7 @@ const achievementsData: AchievementProps[] = [
     title: "CyberSecurity Technical Club",
     role: "HR Lead",
     organization: "KL University",
-    date: "2023 - 2026",
+    date: "2023 - 2025",
     image: techClubImg,
   },
   {

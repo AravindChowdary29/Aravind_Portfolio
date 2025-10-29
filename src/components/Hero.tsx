@@ -8,7 +8,7 @@ export default function Hero() {
   // Removed unused properties (location, degree, gpa)
   const personalInfo = {
     name: "Tummalapalli Aravind",
-    title: "CyberSecurity Professional & Full Stack Developer",
+    title: "CyberSecurity Enthusiastic & Full Stack Developer",
     phone: "+91 89196 78462",
     email: "aravindn959@gmail.com",
   }
